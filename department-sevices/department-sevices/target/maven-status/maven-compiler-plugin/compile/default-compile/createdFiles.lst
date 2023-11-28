@@ -1,0 +1,7 @@
+com\microservices\departmentsevices\controller\DepartmentController.class
+com\microservices\departmentsevices\DepartmentSevicesApplication.class
+com\microservices\departmentsevices\dto\DepartmentDto.class
+com\microservices\departmentsevices\entity\Department.class
+com\microservices\departmentsevices\repository\DepartmentRepository.class
+com\microservices\departmentsevices\service\impl\DepartmentServiceImpl.class
+com\microservices\departmentsevices\service\DepartmentService.class
